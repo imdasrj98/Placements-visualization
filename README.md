@@ -4,3 +4,4 @@ Have worked with the library Matplotlib in Python, to specially visualize the nu
 1.  pip install pandas
 2.  pip install numpy
 3.  pip install matplotlib
+4.  pip install seaborn
